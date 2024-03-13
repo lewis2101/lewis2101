@@ -1,9 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>
   <img src="https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif" width="300"/>
 </div>
 
 <h1 align="center">🔸 WELCOME TO MY PROFILE 🔸</h1>
+
+<div id="header" align="center">
+  <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewis2101&label=Profile%20views&color=0e75b6&style=flat" alt="lewis2101" /> </p>
 - 🌱 I’m currently working as a **Frontend Developer**
   

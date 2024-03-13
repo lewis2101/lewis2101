@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>
-</div>https://github.com/lewis2101/lewis2101/blob/main/README.md
+</div>
 
 <h1 align="center">🔸 WELCOME TO MY PROFILE 🔸</h1>
 

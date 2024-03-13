@@ -9,11 +9,11 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lewis2101&label=Profile%20views&color=0e75b6&style=flat" alt="lewis2101" /> </p>
-- 🌱 I’m currently working as a **Frontend Developer**
+🌱 I’m currently working as a **Frontend Developer**
   
-- 👨‍💻 Some of my projects are available at [https://github.com/lewis2101?tab=repositories](https://github.com/lewis2101?tab=repositories)
+👨‍💻 Some of my projects are available at [https://github.com/lewis2101?tab=repositories](https://github.com/lewis2101?tab=repositories)
   
-- 📫 How to reach me **https://t.me/bmustafaev**
+📫 How to reach me **https://t.me/bmustafaev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

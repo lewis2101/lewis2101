@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" width="100"/>
+  <img src="https://tenor.com/ru/view/cat-coding-gif-22257939" width="100"/>
 </div>
 
 <h1 align="center">🔸 WELCOME TO MY PROFILE 🔸</h1>

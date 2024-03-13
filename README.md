@@ -8,7 +8,7 @@
   
 - 👨‍💻 Some of my projects are available at [https://github.com/lewis2101?tab=repositories](https://github.com/lewis2101?tab=repositories)
   
-- 📫 How to reach me **https://t.me/arealxd**
+- 📫 How to reach me **https://t.me/bmustafaev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">🔸 WELCOME TO MY PROFILE 🔸</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewis2101&label=Profile%20views&color=0e75b6&style=flat" alt="lewis2101" /> </p>
 - 🌱 I’m currently working as a **Frontend Developer**
   
 - 👨‍💻 Some of my projects are available at [https://github.com/lewis2101?tab=repositories](https://github.com/lewis2101?tab=repositories)
